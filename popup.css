@@ -1,0 +1,17 @@
+body{
+    background: aqua;
+}
+.wrapper{
+    width: 300px;
+    text-align: center;
+}
+.startrecording{
+    width: 200px;
+    outline: none;
+    border: 10px solid black;
+    border-radius: 2px;
+    padding: 5px;
+    background: red;
+    cursor: pointer;    
+    color: white;
+}
